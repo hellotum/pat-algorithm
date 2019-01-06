@@ -122,32 +122,32 @@ PAT/fast:
 	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/build
 .PHONY : PAT/fast
 
-a1052.obj: a1052.cpp.obj
+dfs_traversal.obj: dfs_traversal.cpp.obj
 
-.PHONY : a1052.obj
+.PHONY : dfs_traversal.obj
 
 # target to build an object file
-a1052.cpp.obj:
-	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/a1052.cpp.obj
-.PHONY : a1052.cpp.obj
+dfs_traversal.cpp.obj:
+	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/dfs_traversal.cpp.obj
+.PHONY : dfs_traversal.cpp.obj
 
-a1052.i: a1052.cpp.i
+dfs_traversal.i: dfs_traversal.cpp.i
 
-.PHONY : a1052.i
+.PHONY : dfs_traversal.i
 
 # target to preprocess a source file
-a1052.cpp.i:
-	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/a1052.cpp.i
-.PHONY : a1052.cpp.i
+dfs_traversal.cpp.i:
+	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/dfs_traversal.cpp.i
+.PHONY : dfs_traversal.cpp.i
 
-a1052.s: a1052.cpp.s
+dfs_traversal.s: dfs_traversal.cpp.s
 
-.PHONY : a1052.s
+.PHONY : dfs_traversal.s
 
 # target to generate assembly for a file
-a1052.cpp.s:
-	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/a1052.cpp.s
-.PHONY : a1052.cpp.s
+dfs_traversal.cpp.s:
+	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/dfs_traversal.cpp.s
+.PHONY : dfs_traversal.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... PAT
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... a1052.obj
-	@echo ... a1052.i
-	@echo ... a1052.s
+	@echo ... dfs_traversal.obj
+	@echo ... dfs_traversal.i
+	@echo ... dfs_traversal.s
 .PHONY : help
 
 
