@@ -122,6 +122,33 @@ PAT/fast:
 	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/build
 .PHONY : PAT/fast
 
+a1034.obj: a1034.cpp.obj
+
+.PHONY : a1034.obj
+
+# target to build an object file
+a1034.cpp.obj:
+	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/a1034.cpp.obj
+.PHONY : a1034.cpp.obj
+
+a1034.i: a1034.cpp.i
+
+.PHONY : a1034.i
+
+# target to preprocess a source file
+a1034.cpp.i:
+	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/a1034.cpp.i
+.PHONY : a1034.cpp.i
+
+a1034.s: a1034.cpp.s
+
+.PHONY : a1034.s
+
+# target to generate assembly for a file
+a1034.cpp.s:
+	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/a1034.cpp.s
+.PHONY : a1034.cpp.s
+
 dfs_traversal.obj: dfs_traversal.cpp.obj
 
 .PHONY : dfs_traversal.obj
@@ -158,6 +185,9 @@ help:
 	@echo ... PAT
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... a1034.obj
+	@echo ... a1034.i
+	@echo ... a1034.s
 	@echo ... dfs_traversal.obj
 	@echo ... dfs_traversal.i
 	@echo ... dfs_traversal.s

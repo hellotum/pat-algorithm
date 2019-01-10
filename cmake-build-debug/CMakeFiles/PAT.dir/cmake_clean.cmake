@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/PAT.dir/dfs_traversal.cpp.obj"
+  "CMakeFiles/PAT.dir/a1034.cpp.obj"
   "PAT.pdb"
   "PAT.exe"
   "PAT.exe.manifest"
