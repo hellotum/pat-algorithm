@@ -56,69 +56,43 @@ include CMakeFiles/PAT.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/PAT.dir/flags.make
 
-CMakeFiles/PAT.dir/dfs_traversal.cpp.obj: CMakeFiles/PAT.dir/flags.make
-CMakeFiles/PAT.dir/dfs_traversal.cpp.obj: ../dfs_traversal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\ClionProject\PAT\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/PAT.dir/dfs_traversal.cpp.obj"
-	D:\MinGW_w64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PAT.dir\dfs_traversal.cpp.obj -c D:\ClionProject\PAT\dfs_traversal.cpp
+CMakeFiles/PAT.dir/a1042.cpp.obj: CMakeFiles/PAT.dir/flags.make
+CMakeFiles/PAT.dir/a1042.cpp.obj: ../a1042.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\ClionProject\PAT\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/PAT.dir/a1042.cpp.obj"
+	D:\MinGW_w64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PAT.dir\a1042.cpp.obj -c D:\ClionProject\PAT\a1042.cpp
 
-CMakeFiles/PAT.dir/dfs_traversal.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PAT.dir/dfs_traversal.cpp.i"
-	D:\MinGW_w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\ClionProject\PAT\dfs_traversal.cpp > CMakeFiles\PAT.dir\dfs_traversal.cpp.i
+CMakeFiles/PAT.dir/a1042.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PAT.dir/a1042.cpp.i"
+	D:\MinGW_w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\ClionProject\PAT\a1042.cpp > CMakeFiles\PAT.dir\a1042.cpp.i
 
-CMakeFiles/PAT.dir/dfs_traversal.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PAT.dir/dfs_traversal.cpp.s"
-	D:\MinGW_w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\ClionProject\PAT\dfs_traversal.cpp -o CMakeFiles\PAT.dir\dfs_traversal.cpp.s
+CMakeFiles/PAT.dir/a1042.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PAT.dir/a1042.cpp.s"
+	D:\MinGW_w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\ClionProject\PAT\a1042.cpp -o CMakeFiles\PAT.dir\a1042.cpp.s
 
-CMakeFiles/PAT.dir/dfs_traversal.cpp.obj.requires:
+CMakeFiles/PAT.dir/a1042.cpp.obj.requires:
 
-.PHONY : CMakeFiles/PAT.dir/dfs_traversal.cpp.obj.requires
+.PHONY : CMakeFiles/PAT.dir/a1042.cpp.obj.requires
 
-CMakeFiles/PAT.dir/dfs_traversal.cpp.obj.provides: CMakeFiles/PAT.dir/dfs_traversal.cpp.obj.requires
-	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/dfs_traversal.cpp.obj.provides.build
-.PHONY : CMakeFiles/PAT.dir/dfs_traversal.cpp.obj.provides
+CMakeFiles/PAT.dir/a1042.cpp.obj.provides: CMakeFiles/PAT.dir/a1042.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/a1042.cpp.obj.provides.build
+.PHONY : CMakeFiles/PAT.dir/a1042.cpp.obj.provides
 
-CMakeFiles/PAT.dir/dfs_traversal.cpp.obj.provides.build: CMakeFiles/PAT.dir/dfs_traversal.cpp.obj
-
-
-CMakeFiles/PAT.dir/a1034.cpp.obj: CMakeFiles/PAT.dir/flags.make
-CMakeFiles/PAT.dir/a1034.cpp.obj: ../a1034.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\ClionProject\PAT\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/PAT.dir/a1034.cpp.obj"
-	D:\MinGW_w64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PAT.dir\a1034.cpp.obj -c D:\ClionProject\PAT\a1034.cpp
-
-CMakeFiles/PAT.dir/a1034.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PAT.dir/a1034.cpp.i"
-	D:\MinGW_w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\ClionProject\PAT\a1034.cpp > CMakeFiles\PAT.dir\a1034.cpp.i
-
-CMakeFiles/PAT.dir/a1034.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PAT.dir/a1034.cpp.s"
-	D:\MinGW_w64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\ClionProject\PAT\a1034.cpp -o CMakeFiles\PAT.dir\a1034.cpp.s
-
-CMakeFiles/PAT.dir/a1034.cpp.obj.requires:
-
-.PHONY : CMakeFiles/PAT.dir/a1034.cpp.obj.requires
-
-CMakeFiles/PAT.dir/a1034.cpp.obj.provides: CMakeFiles/PAT.dir/a1034.cpp.obj.requires
-	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/a1034.cpp.obj.provides.build
-.PHONY : CMakeFiles/PAT.dir/a1034.cpp.obj.provides
-
-CMakeFiles/PAT.dir/a1034.cpp.obj.provides.build: CMakeFiles/PAT.dir/a1034.cpp.obj
+CMakeFiles/PAT.dir/a1042.cpp.obj.provides.build: CMakeFiles/PAT.dir/a1042.cpp.obj
 
 
 # Object files for target PAT
 PAT_OBJECTS = \
-"CMakeFiles/PAT.dir/dfs_traversal.cpp.obj" \
-"CMakeFiles/PAT.dir/a1034.cpp.obj"
+"CMakeFiles/PAT.dir/a1042.cpp.obj"
 
 # External object files for target PAT
 PAT_EXTERNAL_OBJECTS =
 
-PAT.exe: CMakeFiles/PAT.dir/dfs_traversal.cpp.obj
-PAT.exe: CMakeFiles/PAT.dir/a1034.cpp.obj
+PAT.exe: CMakeFiles/PAT.dir/a1042.cpp.obj
 PAT.exe: CMakeFiles/PAT.dir/build.make
 PAT.exe: CMakeFiles/PAT.dir/linklibs.rsp
 PAT.exe: CMakeFiles/PAT.dir/objects1.rsp
 PAT.exe: CMakeFiles/PAT.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\ClionProject\PAT\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable PAT.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\ClionProject\PAT\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable PAT.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\PAT.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -126,8 +100,7 @@ CMakeFiles/PAT.dir/build: PAT.exe
 
 .PHONY : CMakeFiles/PAT.dir/build
 
-CMakeFiles/PAT.dir/requires: CMakeFiles/PAT.dir/dfs_traversal.cpp.obj.requires
-CMakeFiles/PAT.dir/requires: CMakeFiles/PAT.dir/a1034.cpp.obj.requires
+CMakeFiles/PAT.dir/requires: CMakeFiles/PAT.dir/a1042.cpp.obj.requires
 
 .PHONY : CMakeFiles/PAT.dir/requires
 

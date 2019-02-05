@@ -80,10 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/ClionProject/PAT/a1034.cpp">
-			<Option target="PAT"/>
-		</Unit>
-		<Unit filename="D:/ClionProject/PAT/dfs_traversal.cpp">
+		<Unit filename="D:/ClionProject/PAT/a1042.cpp">
 			<Option target="PAT"/>
 		</Unit>
 		<Unit filename="D:/ClionProject/PAT/CMakeLists.txt">

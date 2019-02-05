@@ -6,9 +6,7 @@
 
 #IncludeRegexTransform: 
 
-D:/ClionProject/PAT/testSort.cpp
-algorithm
--
-stdio.h
+D:/ClionProject/PAT/a1042.cpp
+string
 -
 

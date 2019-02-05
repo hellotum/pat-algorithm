@@ -122,59 +122,32 @@ PAT/fast:
 	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/build
 .PHONY : PAT/fast
 
-a1034.obj: a1034.cpp.obj
+a1042.obj: a1042.cpp.obj
 
-.PHONY : a1034.obj
-
-# target to build an object file
-a1034.cpp.obj:
-	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/a1034.cpp.obj
-.PHONY : a1034.cpp.obj
-
-a1034.i: a1034.cpp.i
-
-.PHONY : a1034.i
-
-# target to preprocess a source file
-a1034.cpp.i:
-	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/a1034.cpp.i
-.PHONY : a1034.cpp.i
-
-a1034.s: a1034.cpp.s
-
-.PHONY : a1034.s
-
-# target to generate assembly for a file
-a1034.cpp.s:
-	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/a1034.cpp.s
-.PHONY : a1034.cpp.s
-
-dfs_traversal.obj: dfs_traversal.cpp.obj
-
-.PHONY : dfs_traversal.obj
+.PHONY : a1042.obj
 
 # target to build an object file
-dfs_traversal.cpp.obj:
-	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/dfs_traversal.cpp.obj
-.PHONY : dfs_traversal.cpp.obj
+a1042.cpp.obj:
+	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/a1042.cpp.obj
+.PHONY : a1042.cpp.obj
 
-dfs_traversal.i: dfs_traversal.cpp.i
+a1042.i: a1042.cpp.i
 
-.PHONY : dfs_traversal.i
+.PHONY : a1042.i
 
 # target to preprocess a source file
-dfs_traversal.cpp.i:
-	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/dfs_traversal.cpp.i
-.PHONY : dfs_traversal.cpp.i
+a1042.cpp.i:
+	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/a1042.cpp.i
+.PHONY : a1042.cpp.i
 
-dfs_traversal.s: dfs_traversal.cpp.s
+a1042.s: a1042.cpp.s
 
-.PHONY : dfs_traversal.s
+.PHONY : a1042.s
 
 # target to generate assembly for a file
-dfs_traversal.cpp.s:
-	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/dfs_traversal.cpp.s
-.PHONY : dfs_traversal.cpp.s
+a1042.cpp.s:
+	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/a1042.cpp.s
+.PHONY : a1042.cpp.s
 
 # Help Target
 help:
@@ -185,12 +158,9 @@ help:
 	@echo ... PAT
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... a1034.obj
-	@echo ... a1034.i
-	@echo ... a1034.s
-	@echo ... dfs_traversal.obj
-	@echo ... dfs_traversal.i
-	@echo ... dfs_traversal.s
+	@echo ... a1042.obj
+	@echo ... a1042.i
+	@echo ... a1042.s
 .PHONY : help
 
 
