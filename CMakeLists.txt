@@ -3,4 +3,4 @@ project(PAT)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(PAT a1042.cpp)
+add_executable(PAT a1046.cpp)
