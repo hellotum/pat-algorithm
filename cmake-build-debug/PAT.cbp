@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/ClionProject/PAT/a1065.cpp">
+		<Unit filename="D:/ClionProject/PAT/a1002.cpp">
 			<Option target="PAT"/>
 		</Unit>
 		<Unit filename="D:/ClionProject/PAT/CMakeLists.txt">

@@ -122,32 +122,32 @@ PAT/fast:
 	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/build
 .PHONY : PAT/fast
 
-a1065.obj: a1065.cpp.obj
+a1002.obj: a1002.cpp.obj
 
-.PHONY : a1065.obj
+.PHONY : a1002.obj
 
 # target to build an object file
-a1065.cpp.obj:
-	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/a1065.cpp.obj
-.PHONY : a1065.cpp.obj
+a1002.cpp.obj:
+	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/a1002.cpp.obj
+.PHONY : a1002.cpp.obj
 
-a1065.i: a1065.cpp.i
+a1002.i: a1002.cpp.i
 
-.PHONY : a1065.i
+.PHONY : a1002.i
 
 # target to preprocess a source file
-a1065.cpp.i:
-	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/a1065.cpp.i
-.PHONY : a1065.cpp.i
+a1002.cpp.i:
+	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/a1002.cpp.i
+.PHONY : a1002.cpp.i
 
-a1065.s: a1065.cpp.s
+a1002.s: a1002.cpp.s
 
-.PHONY : a1065.s
+.PHONY : a1002.s
 
 # target to generate assembly for a file
-a1065.cpp.s:
-	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/a1065.cpp.s
-.PHONY : a1065.cpp.s
+a1002.cpp.s:
+	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/a1002.cpp.s
+.PHONY : a1002.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... PAT
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... a1065.obj
-	@echo ... a1065.i
-	@echo ... a1065.s
+	@echo ... a1002.obj
+	@echo ... a1002.i
+	@echo ... a1002.s
 .PHONY : help
 
 
