@@ -149,6 +149,33 @@ a1002.cpp.s:
 	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/a1002.cpp.s
 .PHONY : a1002.cpp.s
 
+a1009.obj: a1009.cpp.obj
+
+.PHONY : a1009.obj
+
+# target to build an object file
+a1009.cpp.obj:
+	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/a1009.cpp.obj
+.PHONY : a1009.cpp.obj
+
+a1009.i: a1009.cpp.i
+
+.PHONY : a1009.i
+
+# target to preprocess a source file
+a1009.cpp.i:
+	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/a1009.cpp.i
+.PHONY : a1009.cpp.i
+
+a1009.s: a1009.cpp.s
+
+.PHONY : a1009.s
+
+# target to generate assembly for a file
+a1009.cpp.s:
+	$(MAKE) -f CMakeFiles\PAT.dir\build.make CMakeFiles/PAT.dir/a1009.cpp.s
+.PHONY : a1009.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -161,6 +188,9 @@ help:
 	@echo ... a1002.obj
 	@echo ... a1002.i
 	@echo ... a1002.s
+	@echo ... a1009.obj
+	@echo ... a1009.i
+	@echo ... a1009.s
 .PHONY : help
 
 
